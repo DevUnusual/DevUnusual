@@ -11,6 +11,10 @@
   <img align="center" alt="Dev-React" "height"="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Dev-Python" "height"="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Dev-Vscode" "height"="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <a href="https://www.linkedin.com/in/carlos-meneses-guimaraes-sousa-7a8b511b2/"><img align="center" alt="Dev-Linkedin" "height"="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  
  </div>
+ 
+ ##
+ 
+<div>
+<a href="https://www.linkedin.com/in/carlos-meneses-guimaraes-sousa-7a8b511b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="mailto:carlos.meneses.g.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black">

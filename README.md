@@ -18,3 +18,6 @@
 <div>
 <a href="https://www.linkedin.com/in/carlos-meneses-guimaraes-sousa-7a8b511b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="mailto:carlos.meneses.g.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black">
+</div>
+  
+ ![Snake animation](https://github.com/rafaballerini/DevUnusual/blob/output/github-contribution-grid-snake.svg)
